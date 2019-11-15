@@ -116,7 +116,7 @@ body {
 	background-image:url('penguin_pngs/mound_8.png')
 }
 .yeti:hover {
-	background-image:url('penguin_pngs/mound_8_hover.png');
+	background-image:url('penguin_pngs/mound_9_hover.png');
 	cursor: pointer;
 }
 .yeti:active {
